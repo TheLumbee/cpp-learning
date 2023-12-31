@@ -42,5 +42,5 @@ All PRs (pull requests) to the main branch must be approved by the code owner.
 
 ## Large Language Model (LLM) Assistance
 It is expected that the learner will not use any AI tools for the material in this course. \
-While using AI tools can be largely beneficial in many cases, for the purposes of learning \
+While using AI tools can be largely beneficial in many cases, \
 using AI tools could hinder the learners ability to solve unique problems that advance learning.
