@@ -6,7 +6,8 @@ It is the learner's responsibility to install and make cmake usable on their hos
 
 *Reminder* \
 The learner should create a directory and file stucture in their personal directory \
-as it's laid out here in the modules directory.
+as it's laid out here in the modules directory. \
+Remember to pull any changes.
 
 ## Solo Work
 
