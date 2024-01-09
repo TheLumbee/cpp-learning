@@ -1,0 +1,5 @@
+# Ignore all cmake files in the modules directory
+learning-modules/**/CMake**
+
+# All build folders are unnecessary
+build/
