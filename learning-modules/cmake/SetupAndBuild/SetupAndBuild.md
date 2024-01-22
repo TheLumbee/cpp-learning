@@ -19,11 +19,12 @@ Create a *CMakeLists.txt* file containing all the necessary information to build
 See the documentation [here](https://cmake.org/cmake/help/latest/index.html) for cmake.
 
 ### Exercise 3
-Generate all the cmake output in the correct build directory and build the executable.
+Generate all the cmake output in the correct build directory and build the executable. \
+Create a simple text file showing the commands used to generate the output.
 
 ### Exercise 4
 Run the executable and screenshot the output. \
-Commit and push an image of the output along with the *CMakeLists.txt* file to the learner's directory.
+Commit and push an image of the output along with the *CMakeLists.txt* and *hello_world.cpp* files to the learner's directory.
 
 *Note* \
 The build folder will be ignored by git.
